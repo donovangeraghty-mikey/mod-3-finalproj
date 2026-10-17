@@ -258,3 +258,7 @@ nav {
   top: 24px;
   right: 18px;
 }
+.menu {
+  position: fixed;
+  top: 0;
+}
